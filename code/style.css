@@ -1,0 +1,14 @@
+.menu-table {
+    width:70%;
+}
+
+.menu-table-header-cell {
+    border-bottom: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: gray;
+}
+
+.menu-table-cell,.menu-table-header-cell {
+  float: left;
+  width: 33%;
+}
